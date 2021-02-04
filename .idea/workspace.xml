@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/cadastros/serializers.py" line="56" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9e30b6c-5e06-466d-bf8d-cdd9e716b31e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cadastros/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cadastros/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>unhashable type</find>
+      <find>projeto</find>
+      <find>data</find>
+      <find>BaseMetod</find>
+      <find>autor</find>
+      <find>create</find>
+      <find>search</find>
+      <find>search_fields</find>
+      <find>filters</find>
+      <find>filterset_fields</find>
+      <find>hasattr</find>
+      <find>ListAPIView</find>
+      <find>SistemaGerencProjetos</find>
+      <find>telefones_ids</find>
+      <find>TODO</find>
+      <find>avaliacoes</find>
+      <find>avaliacoes_avaliador</find>
+      <find>avaliacoes_projeto</find>
+      <find>get_choices</find>
+      <find>display_value</find>
+      <find>ProjetosEnviadosNaoAvaliados</find>
+      <find>ProjetosConsultasSerializer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>models.Model</replace>
+      <replace>ListCreateAPIView</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\SistemaGerencProjetos\venv\Lib\site-packages\rest_framework</dir>
+      <dir>D:\SistemaGerencProjetos\venv\Lib\site-packages\django_filters</dir>
+      <dir>D:\SistemaGerencProjetos</dir>
+      <dir>D:\SistemaGerencProjetosServer</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cadastros/admin.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/views.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/SistemaGerencProjetos/settings.py" />
+        <option value="$PROJECT_DIR$/cadastros/__init__.py" />
+        <option value="$PROJECT_DIR$/SistemaGerencProjetos/wsgi.py" />
+        <option value="$PROJECT_DIR$/SistemaGerencProjetosSever/wsgi.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/cadastros/models.py" />
+        <option value="$PROJECT_DIR$/cadastros/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/cadastros/serializers.py" />
+        <option value="$PROJECT_DIR$/cadastros/urls.py" />
+        <option value="$PROJECT_DIR$/cadastros/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="84" />
+    <option name="y" value="24" />
+    <option name="width" value="1752" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SistemaGerencProjetosServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SistemaGerencProjetosServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SistemaGerencProjetosServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SistemaGerencProjetosServer" type="462c0819:PsiDirectoryNode" />
+              <item name="cadastros" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SGIP" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Python.DjangoServer" factoryName="Django server">
+      <module name="SistemaGerencProjetosServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="SistemaGerencProjetosSever.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Lidiane\PycharmProjects\SistemaGerencProjetosServer\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e30b6c-5e06-466d-bf8d-cdd9e716b31e" name="Default Changelist" comment="" />
+      <created>1611255525759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611255525759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29878542" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="manage.py@SistemaGerencProjetosServer" order="0" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32857144" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.33617023" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32907802" />
+      <window_info anchor="bottom" id="manage.py@SistemaGerencProjetos" order="14" weight="0.4992908" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>Projeto.objects.filter(data_envio__isnull=False).filter(
+            Q( Q(avaliacoes_projeto__isnull=True) or  Q(avaliacoes_projeto__nota__isnull=True)))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Projeto.objects.filter(data_envio__isnull=False).filter(
+            Q( Q(avaliacoes_projeto__isnull=True) or  Q(avaliacoes_projeto__nota__isnull=True))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Projeto.objects.filter(data_envio__isnull=False).filter(
+            Q( Q(avaliacoes_projeto__isnull=True) or
+               Q(avaliacoes_projeto__isnull=False) and Q(avaliacoes_projeto__nota__isnull=True))
+        )</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Projeto.objects.filter(data_envio__isnull=False).filter( Q( Q(avaliacoes_projeto__isnull=True) or Q(avaliacoes_projeto__isnull=False and avaliacoes_projeto__nota__isnull=True) ))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Projeto.objects.filter(data_envio__isnull=False).filter( Q( Q(avaliacoes_projeto__isnull=True) or Q(avaliacoes_projeto__isnull=False and avaliacoes_projeto__nota__isnull=True) )</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Projeto.objects.filter(data_envio__isnull=False).filter( Q( Q(avaliacoes_projeto__isnull=True) or
+                                                            Q(avaliacoes_projeto__isnull=False and avaliacoes_projeto__nota__isnull=True) )</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Projeto.objects.filter(data_envio__isnull=False).filter( Q( Q(avaliacoes_projeto=None) or Q(avaliacoes_projeto=not None) )</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Projeto.objects.filter(data_envio__isnull=False).
+       filter( Q( Q(avaliacoes_projeto=None) || Q(avaliacoes_projeto=not None) )</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ret[field.field_name]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>value</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>super().get_attribute(instance)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>projeto</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>validated_data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.initial_data.get('projetos')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Telefone.objects.get_or_create(**tel)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Telefone.objects.create(**tel)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/handlers/exception.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/servers/basehttp.py" />
+    <entry file="file://F:/Program Files/Python36/Lib/wsgiref/handlers.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/staticfiles/handlers.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/handlers/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/template/response.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/rest_framework/filters.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/rest_framework/filterset.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/compat.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/conf.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/constants.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/exceptions.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/fields.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/filters.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/filterset.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/utils.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/views.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/widgets.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/views.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/views/generic/base.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/core/handlers/base.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/views/decorators/csrf.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/admin/options.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/filters.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django_filters/rest_framework/backends.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/models/manager.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/models/options.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/conf/__init__.py" />
+    <entry file="file://F:/Program Files/Python36/Lib/importlib/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaGerencProjetosSever/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="86" lean-forward="true" selection-start-line="13" selection-start-column="86" selection-end-line="13" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaGerencProjetosSever/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaGerencProjetosSever/asgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaGerencProjetosSever/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastros/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/generics.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/mixins.py" />
+    <entry file="file://F:/Program Files/Python36/Lib/contextlib.py" />
+    <entry file="file://$PROJECT_DIR$/cadastros/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="90" column="130" selection-start-line="90" selection-start-column="130" selection-end-line="90" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files/Python36/Lib/copy.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/fields.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/db/models/query.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/relations.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/rest_framework/serializers.py" />
+    <entry file="file://$PROJECT_DIR$/SistemaGerencProjetosSever/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastros/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastros/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastros/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastros/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
