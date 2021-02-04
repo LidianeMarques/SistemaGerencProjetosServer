@@ -34,6 +34,8 @@
 
 <p> Esta parte do trabalho, lado do servidor, está pronta para disponibilizar o serviços para o cliente consumir.</p>
 
+[Link da parte do clinte](https://github.com/LidianeMarques/SistemaGerencProjetosCliente.git)
+
    
 
 
